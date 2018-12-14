@@ -11,3 +11,9 @@ D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.csprojAssemblyReference
 D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.csproj.CoreCompileInputs.cache
 D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.dll
 D:\MyGit\github\HiSocket\src\HiSocket\obj\Debug\HiSocket.pdb
+D:\GitProjects\hiSocket\src\release\HiSocket.dll
+D:\GitProjects\hiSocket\src\release\HiSocket.pdb
+D:\GitProjects\hiSocket\src\HiSocket\obj\Debug\HiSocket.csprojAssemblyReference.cache
+D:\GitProjects\hiSocket\src\HiSocket\obj\Debug\HiSocket.csproj.CoreCompileInputs.cache
+D:\GitProjects\hiSocket\src\HiSocket\obj\Debug\HiSocket.dll
+D:\GitProjects\hiSocket\src\HiSocket\obj\Debug\HiSocket.pdb

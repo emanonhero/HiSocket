@@ -23,7 +23,7 @@ namespace HiSocket.Example
         public void Unpack(IByteArray source, Action<byte[]> unpackedHandler)
         {
             // Unpack your message(use int, 4 byte as head)
-            while (source.Length >= 4)
+            if (source.Length >= 4)
             {
                 var head = source.Read(4);
                 int bodyLength = BitConverter.ToInt32(head, 0);// get body's length
@@ -36,6 +36,10 @@ namespace HiSocket.Example
                 {
                     source.Insert(0, head);// rewrite in, used for next time
                 }
+            }
+            else
+            {
+                source.Insert(0, source.Read(source.Length));// rewrite in, used for next time
             }
         }
 

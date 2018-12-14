@@ -201,8 +201,8 @@ namespace HiSocket
             {
                 throw new Exception(e.ToString());
             }
-            byte[] sendBytes = new byte[length];
-            Array.Copy(SendBuffer.Array, SendBuffer.ReadPosition, sendBytes, 0, sendBytes.Length);
+
+            byte[] sendBytes = SendBuffer.ReadAll();
             SocketSendEvent(sendBytes);
             SendBuffer.MoveReadPosition(length);
         }

@@ -17,3 +17,10 @@ D:\MyGit\github\HiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.csproj.
 D:\MyGit\github\HiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.csproj.CopyComplete
 D:\MyGit\github\HiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.dll
 D:\MyGit\github\HiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.pdb
+D:\GitProjects\hiSocket\src\release\HiSocket.Message.dll
+D:\GitProjects\hiSocket\src\release\HiSocket.Message.pdb
+D:\GitProjects\hiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.csprojAssemblyReference.cache
+D:\GitProjects\hiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.csproj.CoreCompileInputs.cache
+D:\GitProjects\hiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.csproj.CopyComplete
+D:\GitProjects\hiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.dll
+D:\GitProjects\hiSocket\src\HiSocket.Message\obj\Debug\HiSocket.Message.pdb

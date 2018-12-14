@@ -163,7 +163,7 @@ namespace HiFramework
             {
                 for (int i = WritePosition; i < Size; i++)//write into end 
                 {
-                    Array[WritePosition + i] = array[i];
+                    Array[i] = array[i-WritePosition];
                 }
                 var howManyAlreadWrite = Size - WritePosition;
                 for (int i = 0; i < array.Length - howManyAlreadWrite; i++)//write into head
